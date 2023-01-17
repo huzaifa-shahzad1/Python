@@ -1,4 +1,3 @@
-
 def menu():
     print("1. CGPA of one Semester")
     print("2. CGPA of Multiple Semesters")
